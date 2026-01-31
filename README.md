@@ -7,3 +7,5 @@ Purpose of this repo:
 - Track learning Progress.
 - Build consistency through small exercises.
 
+Project 01 (Tribute Page):
+https://shrutipandey-4.github.io/html-css-js-practice/project-01-the-tribute-page/
