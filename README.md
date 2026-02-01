@@ -10,5 +10,8 @@ Purpose of this repo:
 Project 01 (Tribute Page):
 https://shrutipandey-4.github.io/html-css-js-practice/project-01-the-tribute-page/
 
-Project 02 (Job Application Website)  
+Project 02 (Job Application Website):  
 https://shrutipandey-4.github.io/html-css-js-practice/project-02-job-application-website/
+
+Project 03 (Parallax Website):
+https://shrutipandey-4.github.io/html-css-js-practice/project-03-parallax-website/
