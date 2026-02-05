@@ -19,3 +19,7 @@ https://shrutipandey-4.github.io/html-css-js-practice/project-03-parallax-websit
 Project 04 (Parallax Website):
 https://shrutipandey-4.github.io/html-css-js-practice/project-03-parallax-website/
 
+Project 05 (Parallax Website):
+https://shrutipandey-4.github.io/html-css-js-practice/project-03-parallax-website/
+
+
